@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T21:15:02 IST" name="Default suite" finished-at="2023-09-14T21:15:11 IST" duration-ms="9767">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T21:15:02 IST" name="Default test" finished-at="2023-09-14T21:15:11 IST" duration-ms="9767">
+      <class name="Practice.Get_Method">
+        <test-method signature="Get_method_User()[pri:0, instance:Practice.Get_Method@1da2cb77]" started-at="2023-09-14T21:15:02 IST" name="Get_method_User" finished-at="2023-09-14T21:15:11 IST" duration-ms="9569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_method_User -->
+      </class> <!-- Practice.Get_Method -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
